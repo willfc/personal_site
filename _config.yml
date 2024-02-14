@@ -30,6 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 domain: williamfc.com
 
+header_pages:
+  - home.md
+  - posts.md
+  - portfolio.md
+
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
