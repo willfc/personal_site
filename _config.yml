@@ -31,9 +31,8 @@ github_username:  jekyll
 domain: williamfc.com
 
 header_pages:
-  - home.md
-  - posts.md
-  - portfolio.md
+  - about.md
+  - contact.md
 
 style: hacker
 
