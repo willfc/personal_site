@@ -13,7 +13,7 @@ header_pages:
   - portfolio.markdown
   - posts.markdown
 
-footer: 'Find me on <a href="https://twitter.com/">twitter</a>'
+footer: 'Find me on <a href="https://www.linkedin.com/in/williamfairbairncampbell/">LinkedIn</a>'
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
