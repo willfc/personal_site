@@ -11,7 +11,7 @@ domain: "williamfc.com"
 header_pages:
   - about.markdown
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'Find me on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
