@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: page
-permalink: /home/
+permalink: /
 ---
 
 # This site is a Work in progress.
