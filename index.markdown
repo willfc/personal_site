@@ -10,7 +10,7 @@ permalink: /
 # About Me
 CyberSecurity Professional
 
-#What I am currently working on;
+# What I am currently working on;
 - Offsec Kali Linux Certified Professional Certificate
 - Comptia Security+ Certificate
 - ISC2 Certified in Cybersecurity Certificate
