@@ -29,8 +29,7 @@ url: "https://williamfc.com" # the base hostname & protocol for your site, e.g. 
 domain: "williamfc.com"
 
 header:
-  - about.md
-  - contact.md
+  - about.markdown
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
