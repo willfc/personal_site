@@ -10,7 +10,6 @@ permalink: /
 # About Me
 CyberSecurity Professional
 
-<script src="https://tryhackme.com/badge/111747"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/williamfc.png">
 
 # What I am currently working on;
