@@ -12,7 +12,7 @@ CyberSecurity Professional
 
 <img src="/assets/THMBadge.png">
 
-![Image](https://tryhackme-badges.s3.amazonaws.com/williamfc.png)
+<script src="https://tryhackme.com/badge/111747"></script>
 
 # What I am currently working on;
 - [ ] Offsec Kali Linux Certified Professional Certificate
