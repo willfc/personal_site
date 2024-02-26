@@ -10,10 +10,9 @@ permalink: /
 # About Me
 CyberSecurity Professional
 
-<img src="/assets/THMBadge.png">
-
 # What I am currently working on;
 - [ ] Offsec Kali Linux Certified Professional Certificate
 - [ ] Comptia Security+ Certificate
 - [ ] ISC2 Certified in Cybersecurity Certificate
 - [ ] Microsoft Certified: Azure Security Engineer Associate - MAZ-500
+
