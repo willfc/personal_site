@@ -12,8 +12,6 @@ CyberSecurity Professional
 
 <img src="/assets/THMBadge.png">
 
-<script src="https://tryhackme.com/badge/111747"></script>
-
 # What I am currently working on;
 - [ ] Offsec Kali Linux Certified Professional Certificate
 - [ ] Comptia Security+ Certificate
