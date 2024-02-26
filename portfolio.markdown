@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-#TryHackMe Progress
+# TryHackMe Progress
 <img src="/assets/THMBadge.png">
 
 - [x] Complete Beginner - 100%
