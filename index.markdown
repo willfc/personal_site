@@ -10,7 +10,7 @@ permalink: /
 # About Me
 CyberSecurity Professional
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/williamfc.png">
+<img src="/assets/THMBadge.png">
 
 # What I am currently working on;
 - [ ] Offsec Kali Linux Certified Professional Certificate
