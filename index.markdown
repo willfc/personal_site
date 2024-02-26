@@ -12,6 +12,8 @@ CyberSecurity Professional
 
 <img src="/assets/THMBadge.png">
 
+![Image](https://tryhackme-badges.s3.amazonaws.com/williamfc.png)
+
 # What I am currently working on;
 - [ ] Offsec Kali Linux Certified Professional Certificate
 - [ ] Comptia Security+ Certificate
