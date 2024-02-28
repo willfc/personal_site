@@ -12,7 +12,7 @@ permalink: /portfolio/
 - [x] Cyber Defense - 100%
 - [ ] SOC Level 1 - 80%
 - [ ] SOC Level 2 - 37%
-- [ ] Security Engineer - 85%
+- [x] Security Engineer - 100%
 - [ ] Web Fundamentals - 80%
 - [ ] CompTIA Pentest+ - 67%
 - [ ] Red Teaming - 21%
