@@ -13,8 +13,8 @@ permalink: /portfolio/
 - [ ] SOC Level 1 - 80%
 - [ ] SOC Level 2 - 37%
 - [x] Security Engineer - 100%
-- [ ] Web Fundamentals - 80%
-- [ ] CompTIA Pentest+ - 67%
-- [ ] Red Teaming - 21%
-- [ ] Jr Penetration Tester - 76%
+- [x] Web Fundamentals - 100%
+- [ ] CompTIA Pentest+ - 69%
+- [ ] Red Teaming - 23%
+- [ ] Jr Penetration Tester - 98%
 - [ ] Offensive Pentesting - 30%
