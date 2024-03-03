@@ -16,5 +16,5 @@ permalink: /portfolio/
 - [x] Web Fundamentals - 100%
 - [ ] CompTIA Pentest+ - 69%
 - [ ] Red Teaming - 23%
-- [ ] Jr Penetration Tester - 98%
+- [x] Jr Penetration Tester - 100%
 - [ ] Offensive Pentesting - 30%
