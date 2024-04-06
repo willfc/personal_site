@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# TryHackMe Progress <img src="/assets/THMBadge.png">
+# TryHackMe Progress 
+<img src="/assets/THMBadge.png">
 
 - [x] Complete Beginner - 100%
 - [x] Introduction to Cyber Security - 100%
