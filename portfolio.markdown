@@ -18,3 +18,9 @@ permalink: /portfolio/
 - [ ] Red Teaming - 23%
 - [x] Jr Penetration Tester - 100%
 - [ ] Offensive Pentesting - 30%
+
+# Certificates
+- [X] Offensive Security Defensive Analyst (OSDA)
+- [x] ISC2 Certified in Cybersecurity Certificate
+- [x] Cisco Certified Network Associate (CCNA)
+- [x] Certificate IV in CyberSecurity (TAFE Western Australia)
