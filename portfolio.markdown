@@ -10,14 +10,15 @@ permalink: /portfolio/
 - [x] Introduction to Cyber Security - 100%
 - [x] Pre Security - 100%
 - [x] Cyber Defense - 100%
-- [ ] SOC Level 1 - 80%
-- [ ] SOC Level 2 - 37%
+- [ ] SOC Level 1 - 82%
+- [ ] SOC Level 2 - 40%
 - [x] Security Engineer - 100%
 - [x] Web Fundamentals - 100%
-- [ ] CompTIA Pentest+ - 69%
-- [ ] Red Teaming - 23%
+- [ ] CompTIA Pentest+ - 72%
+- [ ] Red Teaming - 37%
 - [x] Jr Penetration Tester - 100%
-- [ ] Offensive Pentesting - 30%
+- [ ] Offensive Pentesting - 43%
+- [ ] DevSecOps - 63%
 
 # Certificates
 - [X] Offensive Security Defensive Analyst (OSDA)
