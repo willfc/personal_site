@@ -3,6 +3,11 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+# Certificates
+- [X] Offensive Security Defensive Analyst (OSDA)
+- [x] ISC2 Certified in Cybersecurity Certificate
+- [x] Cisco Certified Network Associate (CCNA)
+- [x] Certificate IV in CyberSecurity (TAFE Western Australia)
 
 # TryHackMe Progress 
 <img src="/assets/THMBadge.png">
@@ -21,8 +26,3 @@ permalink: /portfolio/
 - [ ] Offensive Pentesting - 43%
 - [ ] DevSecOps - 63%
 
-# Certificates
-- [X] Offensive Security Defensive Analyst (OSDA)
-- [x] ISC2 Certified in Cybersecurity Certificate
-- [x] Cisco Certified Network Associate (CCNA)
-- [x] Certificate IV in CyberSecurity (TAFE Western Australia)
